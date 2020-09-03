@@ -216,7 +216,7 @@ print(result1)
 # Once again, for your convenience, pandas has been imported as pd and the 'tweets.csv' file has been imported into the DataFrame tweets_df. Parts of the code from your previous work are also provided.
 
 # Define count_entries()
-
+# Define count_entries1()
 
 def count_entries(df, col_name='lang'):
     """Return a dictionary with counts of
