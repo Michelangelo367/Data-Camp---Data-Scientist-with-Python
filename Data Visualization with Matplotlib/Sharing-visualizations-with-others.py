@@ -1,3 +1,6 @@
+#Introduction to Data Visualization with Seaborn
+
+
 # Use the "ggplot" style and create new Figure/Axes
 plt.style.use('ggplot')
 fig, ax = plt.subplots()
@@ -31,3 +34,4 @@ ax.set_xticklabels(sports, rotation=90)
 
 # Save the figure to file
 fig.savefig('sports_weights.png')
+
