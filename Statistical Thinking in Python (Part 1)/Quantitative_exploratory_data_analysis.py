@@ -1,4 +1,4 @@
-# Quantitative exploratory data analysis
+# Quantitative exploratory data analysis!!
 # In this chapter, you will compute useful summary statistics, which serve to concisely describe salient features of a dataset with a few numbers.
 
 # Computing means

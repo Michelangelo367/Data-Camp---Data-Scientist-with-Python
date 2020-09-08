@@ -1,4 +1,4 @@
-# Graphical exploratory data analysis
+# Graphical exploratory data analysis!!
 # Before diving into sophisticated statistical inference techniques, you should first explore your data by plotting them and computing simple summary statistics. This process, called exploratory data analysis, is a crucial first step in statistical analysis of data.
 
 

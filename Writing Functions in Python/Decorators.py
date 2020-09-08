@@ -1,4 +1,4 @@
-# Decorators
+# Decorators!!
 # Decorators are an extremely powerful concept in Python. They allow you to modify the behavior of a function without changing the code of the function itself. This chapter will lay the foundational concepts needed to thoroughly understand decorators (functions as objects, scope, and closures), and give you a good introduction into how decorators are used and defined. This deep dive into Python internals will set you up to be a superstar Pythonista.
 
 # Building a command line data app

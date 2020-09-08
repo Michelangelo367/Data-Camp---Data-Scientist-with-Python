@@ -1,4 +1,4 @@
-# Multivariate Thinking
+# Multivariate Thinking!!
 # Explore multivariate relationships using multiple regression to describe non-linear relationships and logistic regression to explain and predict binary variables.
 
 
